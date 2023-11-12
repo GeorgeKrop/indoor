@@ -1,5 +1,5 @@
-name = str.casefold(input ("What is your name? "))
+name = str.casefold(input ("Stop shouting! "))
 
 str.casefold
 
-print("hello, " + name )
+print("hello, " + name )          
